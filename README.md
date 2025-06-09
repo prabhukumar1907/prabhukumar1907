@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300" alt="Welcome GIF" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="300" alt="Coding Animation" />
 </p>
 
 <p align="center">
