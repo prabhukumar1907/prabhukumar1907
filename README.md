@@ -23,6 +23,18 @@
 
 ---
 
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhukumar1907&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumar1907&theme=dark" />
+</p>
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**  
@@ -58,17 +70,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhukumar1907&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumar1907&theme=dark" />
-</p>
-
----
 
 ### 📫 Let's Connect
 
