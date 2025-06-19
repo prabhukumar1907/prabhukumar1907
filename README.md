@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>🚀 Software Engineer || Java Full Stack Developer | 💡 Tech Enthusiast | 🌍 Open Source Advocate</b><br />
+  <b>🚀 Software Engineer || Java Full Stack Developer || 💡 Tech Enthusiast || 🌍 Open Source Advocate</b><br />
   <i>3.5+ years of experience building scalable and maintainable web applications</i>
 </p>
 
