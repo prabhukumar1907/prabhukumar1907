@@ -29,7 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabhukumar1907&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
-  <br/>
+ 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumar1907&theme=dark" />
 </p>
 
@@ -37,38 +37,23 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
+**Programming Languages**  
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 
 **Java Backend**  
-![Spring Framework](https://img.shields.io/badge/-Spring_Framework-black?style=flat-square&logo=spring)  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)  
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-black?style=flat-square&logo=spring)  
-![Spring Security](https://img.shields.io/badge/-Spring_Security-black?style=flat-square&logo=spring)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)  
-![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apachemaven)  
-![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)  
+![Spring Framework](https://img.shields.io/badge/-Spring_Framework-black?style=flat-square&logo=spring)  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)  ![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-black?style=flat-square&logo=spring)  ![Spring Security](https://img.shields.io/badge/-Spring_Security-black?style=flat-square&logo=spring)  ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)  ![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apachemaven)  ![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)  
 
 **MERN Stack**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=white)
 
 **MERN Related Tools & Libraries**  
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)  
-![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)  
-![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)  
-![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)  
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)  ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)  ![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)  ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)  ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=white)
+
 
 **DevOps & Platforms**  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)  
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws&logoColor=FF9900)
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
 
 
 ### 📫 Let's Connect
