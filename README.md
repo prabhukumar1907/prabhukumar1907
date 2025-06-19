@@ -58,7 +58,7 @@
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/prabhukumar)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prabhu-kumar-564768350/)
 - 🌐 [Portfolio](https://prabhukumar.com)
 - ✉️ prabhukumar636@gmail.com
 
