@@ -29,8 +29,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prabhukumar1907&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumar1907&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumar1907&theme=dark"/>
 </p>
 
 ---
@@ -38,7 +37,8 @@
 ### 🛠️ Tech Stack
 
 **Programming Languages**  
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white) <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="11" style="vertical-align:middle; margin-left:5px;">[![Java](https://img.shields.io/badge/Java-black?style=flat-square)](https://www.java.com/)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 
 **Java Backend**  
 ![Spring Framework](https://img.shields.io/badge/-Spring_Framework-black?style=flat-square&logo=spring)  ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)  ![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-black?style=flat-square&logo=spring)  ![Spring Security](https://img.shields.io/badge/-Spring_Security-black?style=flat-square&logo=spring)  ![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)  ![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apachemaven)  ![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)  
