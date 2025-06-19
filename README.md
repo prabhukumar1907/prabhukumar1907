@@ -43,26 +43,26 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 
 **Java Backend**  
-![Spring Framework](https://img.shields.io/badge/-Spring_Framework-6DB33F?style=flat-square&logo=spring)  
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot)  
-![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-6DB33F?style=flat-square&logo=spring)  
-![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?style=flat-square&logo=spring)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate)  
-![Maven](https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apachemaven)  
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5)  
+![Spring Framework](https://img.shields.io/badge/-Spring_Framework-black?style=flat-square&logo=spring)  
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-black?style=flat-square&logo=springboot)  
+![Spring Data JPA](https://img.shields.io/badge/-Spring_Data_JPA-black?style=flat-square&logo=spring)  
+![Spring Security](https://img.shields.io/badge/-Spring_Security-black?style=flat-square&logo=spring)  
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)  
+![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=apachemaven)  
+![JUnit](https://img.shields.io/badge/-JUnit-black?style=flat-square&logo=junit5)  
 
 **MERN Stack**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)  
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  
 
 **MERN Related Tools & Libraries**  
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux)  
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack)  
-![Babel](https://img.shields.io/badge/-Babel-F9DC3E?style=flat-square&logo=babel)  
-![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)  
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)  
+![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)  
+![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)  
+![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)  
 
 **DevOps & Platforms**  
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)  
