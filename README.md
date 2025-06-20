@@ -28,8 +28,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhukumar1907&show_icons=true&theme=github_dark&count_private=true&hide=issues" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumar1907&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhukumar1907&show_icons=true&theme=github_dark&count_private=true&hide=issues" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhukumar1907&theme=dark"/>
 </p>
 
 ---
