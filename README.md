@@ -1,5 +1,4 @@
 <!-- GitHub README for profile -->
-
 <h1 align="center">Hi there 👋, I'm Prabhu Kumar</h1>
 
 <p align="center">
@@ -12,7 +11,6 @@
 </p>
 
 ---
-
 ### 🧑‍💻 About Me
 
 - 🎓 Computer Science graduate with 3.5+ years in professional Java and MERN full stack development  
