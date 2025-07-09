@@ -1,5 +1,5 @@
 <!-- GitHub README for profile -->
-<h1 align="center">Hi there 👋, I'm Prabhu Kumar</h1>
+<h1 align="center">Hi, I'm Prabhu Kumar</h1>
 
 <p align="center">
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="300" alt="Coding Animation" />
