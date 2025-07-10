@@ -48,7 +48,8 @@
 
 **DevOps & Platforms**  
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws&logoColor=FF9900)
-  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)  
+  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
+  ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 
 
 ### 📫 Let's Connect
