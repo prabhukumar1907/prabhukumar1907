@@ -39,7 +39,7 @@
 
 **MERN Stack**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=1572B6) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=red)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css&logoColor=1572B6) ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)  ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)  ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs&logoColor=red)
 
 **MERN Related Tools & Libraries**  
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)  ![Webpack](https://img.shields.io/badge/-Webpack-black?style=flat-square&logo=webpack)  ![Babel](https://img.shields.io/badge/-Babel-black?style=flat-square&logo=babel)  ![ESLint](https://img.shields.io/badge/-ESLint-black?style=flat-square&logo=eslint)  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css)  ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman&logoColor=white)
