@@ -17,7 +17,6 @@
 - 🌐 Skilled in frontend and backend MERN stack: **MongoDB, Express.js, React, Node.js**  
 - ⚙️ Experienced with RESTful APIs, microservices, cloud deployment (AWS, Docker), and CI/CD  
 - 💡 Passionate about clean code, testing, and continuous learning  
-
 ---
 <!--
 ### 📈 GitHub Stats
