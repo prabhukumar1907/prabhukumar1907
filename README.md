@@ -29,7 +29,7 @@
 ### 🛠️ Tech Stack
 
 **Programming Languages**  
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white) <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="11" style="vertical-align:middle; margin-left:5px;">[![Java](https://img.shields.io/badge/Java-black?style=flat-square)](https://www.java.com/)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B&logoColor=white)![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMzIgMEMxNC4zNTUgMCAwIDE0LjM1NSAwIDMyQzAgNDkuNjQ1IDE0LjM1NSA2NCAzMiA2NEM0OS42NDUgNjQgNjQgNDkuNjQ1IDY0IDMyQzY0IDE0LjM1NSA0OS42NDUgMCAzMiAwWk0zMiA1OEMxNy42NjQgNTggNiA0Ni4zMzYgNiAzMkM2IDE3LjY2NCAxNy42NjQgNiAzMiA2QzQ2LjMzNiA2IDU4IDE3LjY2NCA1OCAzMkM1OCA0Ni4zMzYgNDYuMzM2IDU4IDMyIDU4WiIgZmlsbD0iIzAwNzM5NiIvPgogIDxwYXRoIGQ9Ik0yMiA0NEMyOCA0NyAzNiA0NyA0MiA0NEM0MCA0OCAyOCA1MCAyMiA0NFpNMjUgMzlDMzEgNDEgMzUgNDEgNDEgMzlDMzkgNDMgMjcgNDQgMjUgMzlabTIgLTVDMzIgMzUgMzQgMzUgMzggMzRDMzYgMzcgMzAgMzcgMjggMzRaIiBmaWxsPSIjMDA3Mzk2Ii8+Cjwvc3ZnPg==&logoColor=white)
  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)  
 
 **Java Backend**  
