@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>|| 🚀 Software Engineer || Java Full Stack Developer || Software Developer ||</b><br />
-  <i>4.5+ years of experience building scalable and maintainable web applications</i><br />
+  <i>5.1+ years of experience building scalable and maintainable web applications</i><br />
   <i>Crafting clean code, building powerful solutions.</i>
 </p>
 
