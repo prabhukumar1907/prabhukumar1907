@@ -14,7 +14,7 @@
 ---
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science graduate with 4.5+ years in professional Java and MERN full stack development  
+- 🎓 Computer Science graduate with 5+ years in professional Java and MERN full stack development  
 - 💼 Expertise in backend development with **Spring Framework, Spring Boot**, and **JPA/Hibernate**  
 - 🌐 Skilled in frontend and backend MERN stack: **MongoDB, Express.js, React, Node.js**  
 - ⚙️ Experienced with RESTful APIs, microservices, cloud deployment (AWS, Docker), and CI/CD  
