@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>|| 🚀 Software Engineer || Java Full Stack Developer || Software Developer ||</b><br />
-  <i>5.2+ years of experience building scalable and maintainable web applications</i><br />
+  <i>5+ years of experience building scalable and maintainable web applications</i><br />
   <i>Crafting clean code, building powerful solutions.</i>
 </p>
 
@@ -14,7 +14,7 @@
 ---
 ### 🧑‍💻 About Me
 
-- 🎓 Computer Science graduate with 5.2+ years in professional Java and MERN full stack development  
+- 🎓 Computer Science graduate with 5+ years in professional Java and MERN full stack development  
 - 💼 Expertise in backend development with **Spring Framework, Spring Boot**, and **JPA/Hibernate**  
 - 🌐 Skilled in frontend and backend MERN stack: **MongoDB, Express.js, React, Node.js**  
 - ⚙️ Experienced with RESTful APIs, microservices, cloud deployment (AWS, Docker), and CI/CD  
