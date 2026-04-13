@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;MERN+Stack+Developer;Microservices+Architect;GraphQL+Enthusiast;Cloud+Engineer&center=true&width=520&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Full+Stack+Developer;MERN+Stack+Developer&center=true&width=520&height=45">
 </p>
 
 <p align="center">
